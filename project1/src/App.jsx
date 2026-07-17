@@ -21,12 +21,15 @@ function App() {
       </nav>
 
       <div className="w-full flex justify-center items-center h-196">
-        <div className="w-281.25 h-153.25">
-          <div><h1 className="text-7xl font-bold h-76.5 w-148.75">YOUR FEET<br/>
+        <div className="w-281.25 h-153.25 flex">
+          <div className="flex flex-col">
+            <h1 className="text-7xl font-extrabold h-76.5 w-148.75 flex justify-center items-center">YOUR FEET<br/>
             DESERVE <br/>
-            THE BEST</h1></div>
+            THE BEST</h1>
+            
+          </div>
 
-          <div>
+          <div className="flex justify-center items-center">
             <img src="/images/shoe_image.png"/>
           </div>
         </div>
