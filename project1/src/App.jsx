@@ -26,6 +26,14 @@ function App() {
             <h1 className="text-7xl font-extrabold h-76.5 w-148.75 flex justify-center items-center">YOUR FEET<br/>
             DESERVE <br/>
             THE BEST</h1>
+            <p className="flex justify-center items-center">Lorem, ipsum dolor sit amet consectetur adipisicing elit.<br/>
+              Aspernatur asperiores aliquid modi hic sint at dolorum <br/>
+              adipisci, nobis sequi eveniet ad ducimus odio officia<br/>
+               quae consectetur.</p>
+            <div className="w-62.75 h-7.75 flex justify-evenly">
+              <button>Shop Now</button>
+              <button>Category</button>
+            </div>
             
           </div>
 
