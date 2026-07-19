@@ -18,6 +18,15 @@ function GamePage() {
                     <div className="flex justify-end w-134"><h1 className="font-bold">Select Number</h1></div>
                 </div>
             </div>
+            <div className="h-130 flex justify-center items-center">
+                <div className="flex flex-col h-112.25 w-62.5 gap-4 items-center">
+                    <img src="/images/dice_1.png" className="h-50 w-50 m-4"/>
+                    <p>Click on dice to roll</p>
+                    <button className="h-11 w-42.5 border border-black rounded-sm">Reset Score</button>
+                    <button className="h-11 w-42.5 bg-black text-white rounded-sm">Show Rules</button>
+
+                </div>
+            </div>
         </div>
     )
 }
