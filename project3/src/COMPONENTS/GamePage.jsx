@@ -13,7 +13,7 @@ function GamePage() {
                         <button className="w-18 h-18 bg-white text-black border border-black hover:bg-black hover:text-white font-bold">3</button>
                         <button className="w-18 h-18 bg-white text-black border border-black hover:bg-black hover:text-white font-bold">4</button>
                         <button className="w-18 h-18 bg-white text-black border border-black hover:bg-black hover:text-white font-bold">5</button>
-                        <button className="w-18 h-18 bg-white text-black border border-black hover:bg-black hover:text-white font-bold">5</button>
+                        <button className="w-18 h-18 bg-white text-black border border-black hover:bg-black hover:text-white font-bold">6</button>
                     </div>
                     <div className="flex justify-end w-134"><h1 className="font-bold">Select Number</h1></div>
                 </div>
