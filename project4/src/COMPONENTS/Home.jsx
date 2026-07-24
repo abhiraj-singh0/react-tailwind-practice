@@ -53,7 +53,7 @@ function Home() {
                 <img src="/images/Ellipse 1 (1).png" className="w-35 h-35 mt-5"/>
                 <div className="flex flex-col gap-4">
                     <h3 className="text-white mt-5">Boiled Egg</h3>
-                    <p className="text-xs text-white">Lorem ipsum dolor sit amet consectetur
+                    <p className="text-xs text-white">lorem ipsum dolor sit amet consectetur
                          optio commodi, quod distinctio sunt.</p>
                     <div className="w-42 flex justify-end">
                         <button className={styles}>$10.00</button>
