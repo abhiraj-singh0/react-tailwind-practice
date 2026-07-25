@@ -52,7 +52,7 @@ function Home() {
             <div className={`${divhw} bg-transparent backdrop-blur-md rounded-lg flex`}>
                 <img src="/images/Ellipse 1 (1).png" className="w-35 h-35 mt-5"/>
                 <div className="flex flex-col gap-4">
-                    <h3 className="text-white mt-5">Boiled Egg</h3>
+                    <h3 className="text-white mt-5">RAMEN</h3>
                     <p className="text-xs text-white">lorem ipsum dolor sit amet consectetur
                          optio commodi, quod distinctio sunt.</p>
                     <div className="w-42 flex justify-end">
@@ -63,7 +63,7 @@ function Home() {
             <div className={`${divhw} bg-transparent backdrop-blur-md rounded-lg flex`}>
                 <img src="/images/Ellipse 1 (2).png" className="w-35 h-35 mt-5"/>
                 <div className="flex flex-col gap-4">
-                    <h3 className="text-white mt-5">Boiled Egg</h3>
+                    <h3 className="text-white mt-5">GRILLLED CHICKEN</h3>
                     <p className="text-xs text-white">Lorem ipsum dolor sit amet consectetur
                          optio commodi, quod distinctio sunt.</p>
                     <div className="w-42 flex justify-end">
@@ -76,7 +76,7 @@ function Home() {
             <div className={`${divhw} bg-transparent backdrop-blur-md rounded-lg flex`}>
                 <img src="/images/Ellipse 1 (3).png" className="w-35 h-35 mt-5"/>
                 <div className="flex flex-col gap-4">
-                    <h3 className="text-white mt-5">Boiled Egg</h3>
+                    <h3 className="text-white mt-5">CAKE</h3>
                     <p className="text-xs text-white">Lorem ipsum dolor sit amet consectetur
                          optio commodi, quod distinctio sunt.</p>
                     <div className="w-42 flex justify-end">
