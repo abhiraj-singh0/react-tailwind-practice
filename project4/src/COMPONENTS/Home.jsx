@@ -1,4 +1,4 @@
-function Home() {
+function Home({title, name}) {
   const styles =
     "text-white rounded-sm flex justify-center items-center bg-[#ff4343]";
   const spanstyle = "text-white";
@@ -37,77 +37,7 @@ function Home() {
         </div>
       </div>
       <div className="bg-[url(/images/bg.png)] w-full h-125.5 flex flex-col justify-center items-center">
-        <div className="flex w-266.75 justify-between">
-            <div className={`${divhw} bg-transparent backdrop-blur-md rounded-lg flex`}>
-                <img src="/images/Ellipse 1.png" className="w-35 h-35 mt-5"/>
-                <div className="flex flex-col gap-4">
-                    <h3 className="text-white mt-5">BOILED EGG</h3>
-                    <p className="text-xs text-white">Lorem ipsum dolor sit amet consectetur
-                         optio commodi, quod distinctio sunt.</p>
-                    <div className="w-42 flex justify-end">
-                        <button className={styles}>$10.00</button>
-                    </div>
-                </div>
-            </div>
-            <div className={`${divhw} bg-transparent backdrop-blur-md rounded-lg flex`}>
-                <img src="/images/Ellipse 1 (1).png" className="w-35 h-35 mt-5"/>
-                <div className="flex flex-col gap-4">
-                    <h3 className="text-white mt-5">RAMEN</h3>
-                    <p className="text-xs text-white">lorem ipsum dolor sit amet consectetur
-                         optio commodi, quod distinctio sunt.</p>
-                    <div className="w-42 flex justify-end">
-                        <button className={styles}>$10.00</button>
-                    </div>
-                </div>
-            </div>
-            <div className={`${divhw} bg-transparent backdrop-blur-md rounded-lg flex`}>
-                <img src="/images/Ellipse 1 (2).png" className="w-35 h-35 mt-5"/>
-                <div className="flex flex-col gap-4">
-                    <h3 className="text-white mt-5">GRILLLED CHICKEN</h3>
-                    <p className="text-xs text-white">Lorem ipsum dolor sit amet consectetur
-                         optio commodi, quod distinctio sunt.</p>
-                    <div className="w-42 flex justify-end">
-                        <button className={styles}>$10.00</button>
-                    </div>
-                </div>
-            </div>
         </div>
-        <div className="flex w-266.75 justify-between">
-            <div className={`${divhw} bg-transparent backdrop-blur-md rounded-lg flex`}>
-                <img src="/images/Ellipse 1 (3).png" className="w-35 h-35 mt-5"/>
-                <div className="flex flex-col gap-4">
-                    <h3 className="text-white mt-5">CAKE</h3>
-                    <p className="text-xs text-white">Lorem ipsum dolor sit amet consectetur
-                         optio commodi, quod distinctio sunt.</p>
-                    <div className="w-42 flex justify-end">
-                        <button className={styles}>$10.00</button>
-                    </div>
-                </div>
-            </div>
-            <div className={`${divhw} bg-transparent backdrop-blur-md rounded-lg flex`}>
-                <img src="/images/Ellipse 1 (4).png" className="w-35 h-35 mt-5"/>
-                <div className="flex flex-col gap-4">
-                    <h3 className="text-white mt-5">BURGER</h3>
-                    <p className="text-xs text-white">Lorem ipsum dolor sit amet consectetur
-                         optio commodi, quod distinctio sunt.</p>
-                    <div className="w-42 flex justify-end">
-                        <button className={styles}>$10.00</button>
-                    </div>
-                </div>
-            </div>
-            <div className={`${divhw} bg-transparent backdrop-blur-md rounded-lg flex`}>
-                <img src="/images/Ellipse 1 (5).png" className="w-35 h-35 mt-5"/>
-                <div className="flex flex-col gap-4">
-                    <h3 className="text-white mt-5">PANCAKE</h3>
-                    <p className="text-xs text-white">Lorem ipsum dolor sit amet consectetur
-                         optio commodi, quod distinctio sunt.</p>
-                    <div className="w-42 flex justify-end">
-                        <button className={styles}>$10.00</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-      </div>
     </div>
   );
 }
