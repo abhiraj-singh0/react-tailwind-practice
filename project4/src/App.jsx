@@ -6,8 +6,8 @@ function App() {
     <>
     <Home/>
     <Box title = "BOILED EGG" price = "$10.00" name = "lorem ipsum dolor sit amet consectetur optio commodi quod distinctio sunt."/>
-    <Box title = "BOILED EGG" price = "$14.00" name = "lorem ipsum dolor sit amet consectetur optio commodi quod distinctio sunt."/>
-    <Box title = "BOILED EGG" price = "$12.00" name = "lorem ipsum dolor sit amet consectetur optio commodi quod distinctio sunt."/>
+    <Box title = "RAMEN" price = "$14.00" name = "lorem ipsum dolor sit amet consectetur optio commodi quod distinctio sunt."/>
+    <Box title = "GRILLED CHICKEN" price = "$12.00" name = "lorem ipsum dolor sit amet consectetur optio commodi quod distinctio sunt."/>
     <Box title = "CAKE" price = "$16.00" name = "lorem ipsum dolor sit amet consectetur optio commodi quod distinctio sunt."/>
     <Box title = "BURGER" price = "$18.00" name = "lorem ipsum dolor sit amet consectetur optio commodi quod distinctio sunt."/>
     <Box title = "PANCAKE" price = "$8.00" name = "lorem ipsum dolor sit amet consectetur optio commodi quod distinctio sunt."/>
